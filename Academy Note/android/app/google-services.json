@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "305863093659",
+    "project_id": "datewater-1b728",
+    "storage_bucket": "datewater-1b728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305863093659:android:0ebdb124714972a997053e",
+        "android_client_info": {
+          "package_name": "com.example.waterc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305863093659-a2suaaqn646vvsddn7as612ekpk2u9ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTuNmeCPRrVa361R9VJefSuGIw2S_Rt90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305863093659-a2suaaqn646vvsddn7as612ekpk2u9ea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305863093659-28r0ajeifv1abs331ra6miqdq2e42m5u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waterc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

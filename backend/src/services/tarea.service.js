@@ -4,7 +4,7 @@ class TareaService{
     TareaService(){}
     async consultarTareas(){
         try{
-            return await tareaModel.find();
+            return await tareaModel.find().sort({estado:1});
         }catch(error){
             return error;
         }
